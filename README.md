@@ -62,9 +62,13 @@ It’s production-friendly, reusable, and works across Jira projects.
 
 ## How it works
 ⏰ Trigger – Runs on schedule (e.g., every Friday at 17:00).
+
 🧾 Fetch Issues – JQL filters sprint tickets.
+
 📊 Metrics – Done vs total, SP progress, blockers.
+
 💻 Generate HTML – Clean, styled table and summary.
+
 ✉️ Notify – Send Gmail with full sprint report to stakeholders.
 
 ## Tutorial video:
