@@ -52,8 +52,11 @@ It’s production-friendly, reusable, and works across Jira projects.
 
 ## Expected Output
 📊 HTML Sprint Report with KPIs and issue table.
+
 ✅ Email delivered to stakeholders via Gmail.
+
 🔗 Jira links embedded for easy navigation.
+
 
 <img width="1486" height="710" alt="image" src="https://github.com/user-attachments/assets/6092b919-e78a-4ff2-826c-b2f12f447440" />
 
