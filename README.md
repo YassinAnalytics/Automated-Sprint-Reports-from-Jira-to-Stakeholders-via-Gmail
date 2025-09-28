@@ -48,7 +48,7 @@ It’s production-friendly, reusable, and works across Jira projects.
 
 - Email delivery: HTML report with Jira links sent to stakeholders.
 
-Fully customizable: Adjust fields, KPIs, and recipients easily.
+- Fully customizable: Adjust fields, KPIs, and recipients easily.
 
 ## Expected Output
 📊 HTML Sprint Report with KPIs and issue table.
