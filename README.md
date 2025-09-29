@@ -76,4 +76,4 @@ It’s production-friendly, reusable, and works across Jira projects.
 https://www.youtube.com/watch?v=izRNZZcZ5xU
 
 ## Link
-Get the free template here:
+Get the free template here: https://n8n.io/workflows/8932-automated-sprint-reports-from-jira-to-stakeholders-via-gmail/ 
